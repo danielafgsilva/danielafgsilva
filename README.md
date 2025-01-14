@@ -1,31 +1,136 @@
 # Hey there, I'm Daniela 👋
 
-Welcome to my GitHub! I'm a passionate and driven **Frontend Developer**, currently doing a curricular internship as a **Web Platforms Trainee** @ **Bliss Applications**. I'm also finishing my Master's degree in **Communication and Web Technologies** @ **University of Aveiro**. I specialize in creating engaging, responsive user interfaces and solving problems to provide smooth, delightful user experiences. I’m always on the lookout for new challenges and opportunities to improve my skills.
+Welcome to my GitHub! I'm a passionate and driven Frontend Developer, currently doing a curricular internship as a Web Platforms Trainee @ Bliss Applications. I'm also finishing my Master's degree in Communication and Web Technologies @ University of Aveiro. I specialize in creating engaging, responsive user interfaces and solving problems to provide smooth, delightful user experiences. I’m always on the lookout for new challenges and opportunities to improve my skills.
 
-When I’m not writing code, I enjoy exploring open-source projects, engaging in creative activities, and expanding my knowledge through online courses. I believe in learning by doing, and I love to work on side projects that help me grow both personally and professionally.
+---
+
+## 🚀 About Me
+
+![Developer at work](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+- 🎨 **Frontend Expertise**: Creating intuitive and dynamic web interfaces.
+- 🎭 **Creative Background**: A professional theatre background, enhancing storytelling and design skills.
+- 🎓 **Always Learning**: I’m a lifelong learner who thrives on personal and professional growth.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="400" alt="Coding Animation">
+</div>
+
+---
 
 ## 🔭 Current Focus
 
-- Working as a **Web Platform Trainee** @ **Bliss Applications**, focusing on **Frontend Development** using WordPress and SASS to build dynamic, responsive web platforms.
-- Contributing to **open-source projects** to support the tech community and collaborate with other developers.
-- Constantly improving my skills through hands-on projects and online learning from platforms like **Udemy**, **FreeCodeCamp**, and **Santander | Open Academy**.
+![Focus Animation](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
-## 🌱 I'm currently learning
+- **Internship @ Bliss Applications**: Focusing on Frontend Development using WordPress, PHP and SASS.
+- **Open Source**: Actively contributing to projects that make a difference in the developer community.
+- **Skill Building**: Exploring advanced frameworks and tools, including:
+  - React, Next.js, and JavaScript.
+  - PHP and WordPress.
+  - CSS frameworks like TailwindCSS and SASS.
 
-- **Advanced JavaScript** frameworks (React, Node.js, and more).
-- Styling with **SASS** to create dynamic, scalable, and maintainable CSS.
-- Working with **WordPress** and **PHP** to build and manage dynamic websites.
-- Implementing **AzureDevOps**, **Jira**, and **ClickUp** for better project management and efficient team collaboration.
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400" alt="Focus Animation">
+</div>
 
-## 📬 How to reach me
+---
 
-- **Email:** danif.gsilva2000@gmail.com
-- **LinkedIn:** www.linkedin.com/in/danielafgsilva
-- **GitHub:** https://github.com/danielafgsilva
+## 🌱 What I'm Learning
 
-## ⚡ Fun facts
+```javascript
+const learningJourney = [
+  'Advanced JavaScript Frameworks',
+  'Scalable Styling with SASS',
+  'Azure DevOps and Project Management',
+  'WordPress and PHP Expertise'
+];
 
-- I used to study **theatre**, which sparked my love for storytelling and creative expression. 🎭
-- I **teach music** to kids, helping them develop their musical talents and confidence through fun lessons. 🎶
-- I'm a dedicated **soccer player** in a national division ⚽️ — I love the teamwork and challenge that the sport brings.
-- I’m completely **addicted to reading**, always with my nose in a book—whether it's a great novel, a technical article, or something new to learn. 📚
+learningJourney.forEach(topic => console.log(`Currently diving into: ${topic}`));
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKqZwYPBR7wJbDG/giphy.gif" width="400" alt="Learning Animation">
+</div>
+
+---
+
+## 🛠️ Languages & Frameworks
+
+| Language/Framework | Proficiency | Emoji Representation |
+|--------------------|-------------|-----------------------|
+| HTML              | ⭐⭐⭐⭐⭐       | 🌐                   |
+| CSS               | ⭐⭐⭐⭐⭐       | 🎨                   |
+| TailwindCSS       | ⭐⭐⭐⭐        | 🌀                   |
+| JavaScript        | ⭐⭐⭐⭐        | ✨                   |
+| React             | ⭐⭐⭐⭐        | ⚛️                   |
+| Next.js           | ⭐⭐⭐⭐         | 🚀                   |
+| PHP               | ⭐⭐⭐         | 🖥️                   |
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Code Animation">
+</div>
+
+---
+
+## 📬 Let's Connect
+
+![Connect with me](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+- **Email**: [danif.gsilva2000@gmail.com](mailto:danif.gsilva2000@gmail.com)
+- **LinkedIn**: [Daniela Silva](https://www.linkedin.com/in/danielafgsilva)
+- **GitHub**: [danielafgsilva](https://github.com/danielafgsilva)
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKP9lnJFJrTznWo/giphy.gif" width="400" alt="Connect Animation">
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+- 🎭 **Theatre Enthusiast**: My theatre background adds a flair of creativity and storytelling to my work.
+- 🎶 **Music Mentor**: I teach kids music, helping them explore their talents.
+- ⚽ **Soccer Player**: I play in a national division, enjoying teamwork and the thrill of competition.
+- 📚 **Avid Reader**: Always learning something new through books, articles, and courses.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" width="400" alt="Fun Facts Animation">
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+### 📱 [Twovest](#)
+![Project Preview]([https://via.placeholder.com/800x400.png?text=Project+Image+Preview](https://twovest.com/women))
+
+**Description**: A dynamic, user-centric platform built with Next.js and TailwindCSS.
+
+**Key Features**:
+- Responsive and accessible design.
+- Seamless user experience.
+
+**Technologies**: Next.js, TailwindCSS.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26BkNrGhy4DKnbD9u/giphy.gif" width="400" alt="Project Animation">
+</div>
+
+---
+
+## 🔧 Interactive Features
+
+```html
+<div style="text-align:center;">
+  <h1>Welcome to Daniela's GitHub!</h1>
+  <p>Click the button below for a surprise ✨</p>
+  <button onclick="alert('You are awesome! 🚀')">Click Me!</button>
+</div>
+```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD5tv1ogNBtDhDi/giphy.gif" width="400" alt="Interactive Animation">
+</div>
+
+- **Dynamic Animations**: Hover over projects for interactive previews.
+- **Custom Design**: Explore a tailored visual theme reflecting my personality.
