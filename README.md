@@ -1,6 +1,14 @@
-# Hey there, I'm Daniela 👋
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey%20there!%20I'm%20Daniela%20👋🏼&width=800&height=200&textAlign=center" alt="Profile Banner">
+</p>
 
-Welcome to my GitHub! I'm a passionate and driven Frontend Developer, currently doing a curricular internship as a Web Platforms Trainee @ Bliss Applications. I'm also finishing my Master's degree in Communication and Web Technologies @ University of Aveiro. I specialize in creating engaging, responsive user interfaces and solving problems to provide smooth, delightful user experiences. I’m always on the lookout for new challenges and opportunities to improve my skills.
+<p style="text-align: center;">
+  Welcome to my GitHub! <br>
+  I'm a passionate and driven Frontend Developer, currently doing a curricular internship as a <strong>Web Platforms Trainee</strong> @ <strong>Bliss Applications</strong>. <br>
+  I'm also finishing my Master's degree in <strong>Communication and Web Technologies</strong> @ <strong>University of Aveiro</strong>. <br>
+  I specialize in creating engaging, responsive user interfaces and solving problems to provide smooth, delightful user experiences. <br>
+  I’m always on the lookout for new challenges and opportunities to improve my skills.
+</p>
 
 ---
 
@@ -12,72 +20,60 @@ Welcome to my GitHub! I'm a passionate and driven Frontend Developer, currently 
 
 ---
 
-## 🔭 Current Focus
+## 🛠️ Tools & Technologies
 
-- **Internship @ Bliss Applications**: Focusing on Frontend Development using React and TailwindCSS.
-- **Open Source**: Actively contributing to projects that make a difference in the developer community.
-- **Skill Building**: Exploring advanced frameworks and tools, including:
-  - React, Next.js, and JavaScript.
-  - PHP and WordPress.
-  - CSS frameworks like TailwindCSS and SASS.
-
----
-
-## 🌱 What I'm Learning
-
-```javascript
-const learningJourney = [
-  'Advanced JavaScript Frameworks',
-  'Scalable Styling with SASS',
-  'Azure DevOps and Project Management',
-  'WordPress and PHP Expertise'
-];
-
-learningJourney.forEach(topic => console.log(`Currently diving into: ${topic}`));
-```
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+</p>
 
 ---
 
-## 🛠️ Languages & Frameworks
-
-| Language/Framework | Proficiency |
-|--------------------|-------------|
-| HTML              | ⭐⭐⭐⭐⭐       |
-| CSS               | ⭐⭐⭐⭐⭐       |
-| TailwindCSS       | ⭐⭐⭐⭐        |
-| JavaScript        | ⭐⭐⭐⭐        |
-| React             | ⭐⭐⭐⭐        |
-| Next.js           | ⭐⭐⭐⭐         |
-| PHP               | ⭐⭐⭐         |
-
----
-
-## 📬 Let's Connect
-
-- **Email**: [danif.gsilva2000@gmail.com](mailto:danif.gsilva2000@gmail.com)
-- **LinkedIn**: [Daniela Silva](https://www.linkedin.com/in/danielafgsilva)
-- **GitHub**: [danielafgsilva](https://github.com/danielafgsilva)
+## 🌟 Let's Connect & Have Fun!
+<div align="center">
+    <a href="https://www.linkedin.com/in/danielafgsilva[Daniela Silva]/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  <a href="mailto:danif.gsilva2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+<a href="https://github.com/danielafgsilva" target="_blank">
+    <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
+</a>
+</div>
 
 ---
 
-## ⚡ Fun Facts
+## 🌈 Fun Facts About Me
 
-- 🎭 **Theatre Enthusiast**: My theatre background adds a flair of creativity and storytelling to my work.
-- 🎶 **Music Mentor**: I teach kids music, helping them explore their talents.
-- ⚽ **Soccer Player**: I play in a national division, enjoying teamwork and the thrill of competition.
-- 📚 **Avid Reader**: Always learning something new through books, articles, and courses.
+- 🎭 **Theatre Addict**: I bring a touch of drama and creativity to everything I do. 
+- 🎶 **Music Mentor**: Passionate about guiding young musicians and exploring new sounds.  
+- ⚽ **Soccer Star**: Kicking it in national divisions, where teamwork and adrenaline are key. 
+- 📚 **Bookworm Extraordinaire**: Always reading, always learning — if it’s a book, count me in!
 
 ---
 
-## 🌟 Featured Projects
+## 🧩 Work-Related Goodies
 
-### 📱 [Twovest](#)
+<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
 
-**Description**: A dynamic, user-centric platform built with React and TailwindCSS.
+ <table align="center" width="100%" height="100%" >
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielafgsilva&theme=github_dark" alt="GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielafgsilva&theme=github_dark&utcOffset=10" alt="GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielafgsilva&theme=github_dark" alt="GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielafgsilva&theme=github_dark" alt="GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
 
-**Key Features**:
-- Responsive and accessible design.
-- Seamless user experience.
+---
 
-**Technologies**: Next.js, TailwindCSS, JavaScript.
+
+
 
