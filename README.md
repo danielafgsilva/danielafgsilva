@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=Hey%20there!%20I'm%20Daniela%20👋🏼&width=800&height=200&textAlign=center" alt="Profile Banner">
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&pause=1000&color=747474&center=true&vCenter=true&width=250&lines=👋🏼+Hey+there,+I'm+Daniela!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&amp;size=16&amp;pause=1000&amp;color=747474&amp;center=true&amp;vCenter=true&amp;width=250&amp;lines=Hey+there,+I'm+Daniela!" style="max-width: 100%;">
 </p>
 
 <p style="text-align: center;">
