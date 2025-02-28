@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=16&pause=1000&color=747474&center=true&vCenter=true&width=250&lines=👋🏼+Hey+there,+I'm+Daniela!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&amp;size=16&amp;pause=1000&amp;color=747474&amp;center=true&amp;vCenter=true&amp;width=250&amp;lines=Hey+there,+I'm+Daniela!" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&size=30&pause=1000&color=747474&center=true&vCenter=true&width=300&height=50&lines=👋🏼+Hey+there,+I'm+Daniela!" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Mono&amp;size=30&amp;pause=1000&amp;color=747474&amp;center=true&amp;vCenter=true&amp;width=300&amp;height=50&amp;lines=Hey+there,+I'm+Daniela!" style="max-width: 100%;">
 </p>
 
 <p style="text-align: center;">
