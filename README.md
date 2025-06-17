@@ -64,19 +64,13 @@
 
 ---
 
+
 ## 🧩 Work-Related Goodies
 
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
+| Stats | Productive Time | Most Used Languages | Most Commit Language |
+|-------|------------------|---------------------|----------------------|
+| ![](./profile-summary-card-output/github_dark/0-profile-details.svg) | ![](./profile-summary-card-output/github_dark/3-productive-time.svg) | ![](./profile-summary-card-output/github_dark/1-repos-per-language.svg) | ![](./profile-summary-card-output/github_dark/2-most-commit-language.svg) |
 
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielafgsilva&theme=github_dark" alt="GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danielafgsilva&theme=github_dark&utcOffset=10" alt="GitHub Stats"/>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielafgsilva&theme=github_dark" alt="GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danielafgsilva&theme=github_dark" alt="GitHub Stats"/></td>
-    </tr>
- </table>
-</div>
 
 ---
 
