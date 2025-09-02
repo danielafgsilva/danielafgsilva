@@ -4,7 +4,7 @@
 
 <p style="text-align: center;">
   Welcome to my GitHub! <br>
-  I'm a passionate and driven Frontend Developer, currently working as a <strong>FullStack Developer</strong> @ <strong>Dynamik</strong>. <br>
+  I'm a passionate and driven Developer, currently working as a <strong>FullStack Developer</strong> @ <strong>Dynamik</strong>. <br>
   I'm also finishing my Master's degree in <strong>Communication and Web Technologies</strong> @ <strong>University of Aveiro</strong>. <br>
   I specialize in creating engaging, responsive user interfaces and solving problems to provide smooth, delightful user experiences. <br>
   I’m always on the lookout for new challenges and opportunities to improve my skills.
