@@ -4,7 +4,7 @@
 
 <p style="text-align: center;">
   Welcome to my GitHub! <br>
-  I'm a passionate and driven Frontend Developer, currently doing a curricular internship as a <strong>Web Platforms Trainee</strong> @ <strong>Bliss Applications</strong>. <br>
+  I'm a passionate and driven Frontend Developer, currently working as a <strong>FullStack Developer</strong> @ <strong>Dynamik</strong>. <br>
   I'm also finishing my Master's degree in <strong>Communication and Web Technologies</strong> @ <strong>University of Aveiro</strong>. <br>
   I specialize in creating engaging, responsive user interfaces and solving problems to provide smooth, delightful user experiences. <br>
   I’m always on the lookout for new challenges and opportunities to improve my skills.
@@ -28,8 +28,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vue/vue-original.svg" height="40" alt="Vue"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//tailwindcss/tailwindcss-original.svg" height="40" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" alt="DBeaver"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"/>
+  
+   
+  
 </p>
 
 ---
